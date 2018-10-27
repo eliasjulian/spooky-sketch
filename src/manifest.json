@@ -1,0 +1,18 @@
+{
+  "compatibleVersion": 3,
+  "bundleVersion": 1,
+  "icon": "icon.png",
+  "commands": [
+    {
+      "name": "🎃🔪Spooky?",
+      "identifier": "spooky",
+      "script": "./spooky.js"
+    }
+  ],
+  "menu": {
+    "isRoot": true,
+    "items": [
+      "spooky"
+    ]
+  }
+}

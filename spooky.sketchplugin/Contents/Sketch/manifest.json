@@ -1,0 +1,25 @@
+{
+  "compatibleVersion": 3,
+  "bundleVersion": 1,
+  "icon": "icon.png",
+  "commands": [
+    {
+      "name": "🎃🔪Spooky?",
+      "identifier": "spooky",
+      "script": "spooky.js"
+    }
+  ],
+  "menu": {
+    "isRoot": true,
+    "items": [
+      "spooky"
+    ]
+  },
+  "version": "0.1.0",
+  "name": "Spooky",
+  "identifier": "Spooky",
+  "disableCocoaScriptPreprocessor": true,
+  "appcast": "https://raw.githubusercontent.com//master/.appcast.xml",
+  "author": "Elias Julian",
+  "authorEmail": "eliasneverlost@gmail.com"
+}
