@@ -1,7 +1,7 @@
 {
   "name": "spooky",
   "description": "Have you ever wondered if an image you're using is spooky enough? Well then boy, is this the plugin 4 u. Happy Halloween!",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "engines": {
     "sketch": ">=3.0"
   },
@@ -22,9 +22,9 @@
   "devDependencies": {
     "@skpm/builder": "^0.5.2"
   },
-  "repository" : {
-      "type": "git",
-      "url": "git+https://github.com/eliasjulian/spooky-sketch.git"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliasjulian/spooky-sketch.git"
   },
   "author": "Elias Julian <eliasneverlost@gmail.com>"
 }
