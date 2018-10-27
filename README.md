@@ -1,6 +1,6 @@
 # 🎃🔪 Spooky? 🔪🎃
 
-Say you're designing a quiz ranking each movie in the HALLOWEEN franchise. You know that IV is better than III, because you have great taste. But, you need to choose imagery for each that accurately depicts the level of spookiness in each movie. Usually I'd say that's a very specific scenario and there's likely nothing that could help you make that decision, BUT NOW theres Sketch plugin for that<sup>TM</sup>. 
+Say you're designing a quiz ranking each movie in the HALLOWEEN franchise. You know that IV is better than III, because you have great taste. But, you need to choose imagery for each that accurately depicts the level of spookiness in each movie. Usually I'd say that's a very specific scenario and there's likely nothing that could help you make that decision, BUT NOW, there's a plugin for that<sup>TM</sup>
 
 ![halloween IV is the answer](https://github.com/eliasjulian/spooky-sketch/blob/master/assets/spooky.gif)
 
