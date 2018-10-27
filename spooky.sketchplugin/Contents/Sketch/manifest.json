@@ -15,11 +15,12 @@
       "spooky"
     ]
   },
-  "version": "0.1.0",
+  "version": "0.2.0",
+  "description": "Have you ever wondered if an image you're using is spooky enough? Well then boy, is this the plugin 4 u. Happy Halloween!",
   "name": "Spooky",
   "identifier": "Spooky",
   "disableCocoaScriptPreprocessor": true,
-  "appcast": "https://raw.githubusercontent.com//master/.appcast.xml",
+  "appcast": "https://raw.githubusercontent.com/eliasjulian/spooky-sketch/master/.appcast.xml",
   "author": "Elias Julian",
   "authorEmail": "eliasneverlost@gmail.com"
 }
