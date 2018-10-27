@@ -22,5 +22,9 @@
   "devDependencies": {
     "@skpm/builder": "^0.5.2"
   },
+  "repository" : {
+      "type": "git",
+      "url": "git+https://github.com/eliasjulian/spooky-sketch.git"
+  },
   "author": "Elias Julian <eliasneverlost@gmail.com>"
 }
