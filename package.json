@@ -1,7 +1,7 @@
 {
   "name": "spooky",
   "description": "Is this image ~🎃🔪spooky🔪🎃~ enough? You'll never have to ask yourself that question again. Happy Halloween!",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "engines": {
     "sketch": ">=3.0"
   },
