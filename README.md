@@ -10,7 +10,7 @@ _Inspired by hotdog-not-hotdog by [Mathieu Dutour](https://blog.sketchapp.com/no
 
 ## 🎃 Installation
 
-[Install with Sketch Runner](http://bit.ly/RunnerBadgeBlue)
+![Install with Sketch Runner](https://sketchrunner.com/img/badge_blue.png)
 
 _Requires Sketch 49+ and macOS 10.13+_
 
