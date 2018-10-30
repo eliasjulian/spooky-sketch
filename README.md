@@ -10,6 +10,8 @@ _Inspired by hotdog-not-hotdog by [Mathieu Dutour](https://blog.sketchapp.com/no
 
 ## 🎃 Installation
 
+[Install with Sketch Runner](http://bit.ly/RunnerBadgeBlue)
+
 _Requires Sketch 49+ and macOS 10.13+_
 
 * [Download](https://github.com/eliasjulian/spooky-sketch/releases) the latest release of the plugin
