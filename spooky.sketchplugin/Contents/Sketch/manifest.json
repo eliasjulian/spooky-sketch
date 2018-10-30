@@ -6,7 +6,19 @@
     {
       "name": "🎃🔪Spooky?",
       "identifier": "spooky",
+      "shortcut": "ctrl b",
       "script": "spooky.js"
+    },
+    {
+      "script": "spooky.js",
+      "shortcut": "ctrl b",
+      "handlers": {
+        "run": "VNImageRequestHandler"
+      },
+      "identifier": "spooky",
+      "description": "Test the 🎃spookiness🔪 of the selected image.",
+      "icon": "assets/icon.png",
+      "name": "Test Spoooooookiness"
     }
   ],
   "menu": {
@@ -15,8 +27,8 @@
       "spooky"
     ]
   },
-  "version": "0.2.0",
-  "description": "Have you ever wondered if an image you're using is spooky enough? Well then boy, is this the plugin 4 u. Happy Halloween!",
+  "version": "0.3.0",
+  "description": "Is this image ~🎃🔪spooky🔪🎃~ enough? You'll never have to ask yourself that question again. Happy Halloween!",
   "name": "Spooky",
   "identifier": "Spooky",
   "disableCocoaScriptPreprocessor": true,
