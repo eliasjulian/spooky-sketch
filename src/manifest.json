@@ -6,20 +6,7 @@
     {
       "name": "🎃🔪Spooky?",
       "identifier": "spooky",
-      "shortcut": "ctrl b",
       "script": "./spooky.js"
-    },
-
-    {
-      "script" : "spooky.js",
-      "shortcut" : "ctrl b",
-      "handlers" : {
-        "run" : "VNImageRequestHandler"
-      },
-      "identifier" : "spooky",
-      "description" : "Test the 🎃spookiness🔪 of the selected image.",
-      "icon" : "assets/icon.png",
-      "name" : "Test Spoooooookiness"
     }
  
   ],
